@@ -1,75 +1,75 @@
-Sales Performance Dashboard | Power BI
-Project Overview
+# Sales Performance Dashboard | Power BI
+
+## Project Overview
 
 This project is an interactive Sales Performance Dashboard built in Power BI to analyze business performance across multiple years. The dashboard is designed to help decision-makers quickly understand revenue trends, profitability, and top-performing segments using clear KPIs and visual storytelling.
 
 The objective of this project was to transform raw sales data into actionable business insights using Power Query, data modeling, and DAX.
 
-Dashboard Preview
-Main Dashboard
+---
+
+## Dashboard Preview
+
+### Main Dashboard  
 ![Main Dashboard](mainDashboard.png)
 
-Summary / Insights Page
+### Summary / Insights Page  
 ![Summary](summary.png)
 
-Key Business Insights
+---
 
-Identified the top revenue-generating month using dynamic ranking logic.
+## Key Business Insights
 
-Highlighted the highest performing product sub-category.
+- Identified the top revenue-generating month using dynamic ranking logic.  
+- Highlighted the highest performing product sub-category.  
+- Analyzed overall sales, profit margin, and year-over-year growth trends.  
+- Delivered a clean executive-level overview with interactive slicers for filtering.
 
-Analyzed overall sales, profit margin, and year-over-year growth trends.
+---
 
-Delivered a clean executive-level overview with interactive slicers for filtering.
+## Tools & Technologies
 
-Tools & Technologies
+- Power BI  
+- Power Query (ETL)  
+- DAX Measures  
+- Data Modeling  
+- Data Visualization & Storytelling  
 
-Power BI
+---
 
-Power Query (ETL)
-
-DAX Measures
-
-Data Modeling
-
-Data Visualization & Storytelling
-
-DAX Measures
+## DAX Measures
 
 Basic DAX measures were used to calculate KPIs such as:
 
-Total Sales
-
-Profit Margin
-
-Year-over-Year Growth
+- Total Sales  
+- Profit Margin  
+- Year-over-Year Growth  
 
 These measures enable dynamic and interactive reporting across different filters and time periods.
 
-Files in This Repository
+---
 
-sales-dashboard.pbix → Power BI working file
+## Files in This Repository
 
-sales-dashboard.pdf → Exported report version
+- sales-dashboard.pbix → Power BI working file  
+- sales-dashboard.pdf → Exported report version  
+- mainDashboard.png → Main dashboard screenshot  
+- summary.png → Summary page screenshot  
 
-mainDashboard.png → Main dashboard screenshot
+---
 
-summary.png → Summary page screenshot
+## How to View
 
-How to View
+1. Download sales-dashboard.pbix to explore the dashboard in Power BI Desktop.  
+2. Open sales-dashboard.pdf for a quick report view.  
+3. Use the screenshots above for a quick preview without opening Power BI.
 
-Download sales-dashboard.pbix to explore the dashboard in Power BI Desktop.
+---
 
-Open sales-dashboard.pdf for a quick report view.
+## Learnings & Takeaways
 
-Use the screenshots above for a quick preview without opening Power BI.
+- Gained hands-on experience in building an end-to-end Power BI dashboard.  
+- Improved understanding of business KPI design and storytelling.  
+- Learned how to structure dashboards for executive decision-making.  
+- Strengthened practical skills in data transformation and visualization.
 
-Learnings & Takeaways
-
-Gained hands-on experience in building an end-to-end Power BI dashboard.
-
-Improved understanding of business KPI design and storytelling.
-
-Learned how to structure dashboards for executive decision-making.
-
-Strengthened practical skills in data transformation and visualization.
